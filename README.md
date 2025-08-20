@@ -2,6 +2,8 @@
 **Name**: Lucas Ong  
 **Student Number**: 240846541
 
+<br/>
+
 ## Instructions for Model Testing
 ### 1. Pre-Requisites
 - Make sure Python is installed
