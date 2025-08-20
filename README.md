@@ -7,7 +7,7 @@
 ## Instructions for Model Testing
 ### 1. Pre-Requisites
 - Make sure Python is installed
-- The applications were developed using Python version 3.13.4, you can find the links to download at the bottom of [**this**](https://www.python.org/downloads/release/python-3134/) page.
+- The application was developed using Python version 3.13.4, you can find the links to download at the bottom of [**this**](https://www.python.org/downloads/release/python-3134/) page.
 <br/>
 
 ### 2. Downloading Relevant Files
