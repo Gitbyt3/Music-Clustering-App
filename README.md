@@ -48,9 +48,14 @@
 - *src-tauri* contains the code for converting the react code to a single application
 - *public/audios* contains the actual audio files for the film music for the FME-24 dataset
 
+<br/>
+
 ### 2. flask-app-backend
 - Flask was used as the Python back-end framework and can be found in the app.py file
 - This back-end was mainly used for retrieval and projecting the input queries using the deep clustering model
 - Relevant data files for each of the models can be found within the corresponding folders
 
+<br/>
+
 ### 3. model-training
+- This folder contains the Jupyter notebooks used during model development as well as the original csv provided with the Arousal-Valence annotations
